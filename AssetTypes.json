@@ -1,0 +1,337 @@
+[
+  {
+    "id": 1,
+    "name": "Image",
+    "file": "image"
+  },
+  {
+    "id": 2,
+    "name": "T-Shirt",
+    "file": "image"
+  },
+  {
+    "id": 3,
+    "name": "Audio",
+    "file": ".mp3 or .ogg file"
+  },
+  {
+    "id": 4,
+    "name": "Mesh",
+    "file": "image"
+  },
+  {
+    "id": 5,
+    "name": "Lua",
+    "file": "image"
+  },
+  {
+    "id": 6,
+    "name": "HTML",
+    "file": "image"
+  },
+  {
+    "id": 7,
+    "name": "Text",
+    "file": "image"
+  },
+  {
+    "id": 8,
+    "name": "Hat",
+    "file": "image"
+  },
+  {
+    "id": 9,
+    "name": "Place",
+    "file": "image"
+  },
+  {
+    "id": 10,
+    "name": "Model",
+    "file": "image"
+  },
+  {
+    "id": 11,
+    "name": "Shirt",
+    "file": "image"
+  },
+  {
+    "id": 12,
+    "name": "Pants",
+    "file": "image"
+  },
+  {
+    "id": 13,
+    "name": "Decal",
+    "file": "image"
+  },
+  {
+    "id": 16,
+    "name": "Avatar",
+    "file": "image"
+  },
+  {
+    "id": 17,
+    "name": "Head",
+    "file": "image"
+  },
+  {
+    "id": 18,
+    "name": "Face",
+    "file": "image"
+  },
+  {
+    "id": 19,
+    "name": "Gear",
+    "file": "image"
+  },
+  {
+    "id": 21,
+    "name": "Badge",
+    "file": "image"
+  },
+  {
+    "id": 22,
+    "name": "Group Emblem",
+    "file": "image"
+  },
+  {
+    "id": 24,
+    "name": "Animation",
+    "file": "image"
+  },
+  {
+    "id": 25,
+    "name": "Arms",
+    "file": "image"
+  },
+  {
+    "id": 26,
+    "name": "Legs",
+    "file": "image"
+  },
+  {
+    "id": 27,
+    "name": "Torso",
+    "file": "image"
+  },
+  {
+    "id": 28,
+    "name": "Right Arm",
+    "file": "image"
+  },
+  {
+    "id": 29,
+    "name": "Left Arm",
+    "file": "image"
+  },
+  {
+    "id": 30,
+    "name": "Left Leg",
+    "file": "image"
+  },
+  {
+    "id": 31,
+    "name": "Right Leg",
+    "file": "image"
+  },
+  {
+    "id": 32,
+    "name": "Package",
+    "file": "image"
+  },
+  {
+    "id": 33,
+    "name": "YouTubeVideo",
+    "file": "image"
+  },
+  {
+    "id": 34,
+    "name": "Pass",
+    "file": "image"
+  },
+  {
+    "id": 35,
+    "name": "App",
+    "file": "image"
+  },
+  {
+    "id": 37,
+    "name": "Code",
+    "file": "image"
+  },
+  {
+    "id": 38,
+    "name": "Plugin",
+    "file": "plugin file"
+  },
+  {
+    "id": 39,
+    "name": "SolidModel",
+    "file": "image"
+  },
+  {
+    "id": 40,
+    "name": "MeshPart",
+    "file": "image"
+  },
+  {
+    "id": 41,
+    "name": "Hair Accessory",
+    "file": "image"
+  },
+  {
+    "id": 42,
+    "name": "Face Accessory",
+    "file": "image"
+  },
+  {
+    "id": 43,
+    "name": "Neck Accessory",
+    "file": "image"
+  },
+  {
+    "id": 44,
+    "name": "Shoulder Accessory",
+    "file": "image"
+  },
+  {
+    "id": 45,
+    "name": "Front Accessory",
+    "file": "image"
+  },
+  {
+    "id": 46,
+    "name": "Back Accessory",
+    "file": "image"
+  },
+  {
+    "id": 47,
+    "name": "Waist Accessory",
+    "file": "image"
+  },
+  {
+    "id": 48,
+    "name": "Climb Animation",
+    "file": "image"
+  },
+  {
+    "id": 49,
+    "name": "Death Animation",
+    "file": "image"
+  },
+  {
+    "id": 50,
+    "name": "Fall Animation",
+    "file": "image"
+  },
+  {
+    "id": 51,
+    "name": "Idle Animation",
+    "file": "image"
+  },
+  {
+    "id": 52,
+    "name": "Jump Animation",
+    "file": "image"
+  },
+  {
+    "id": 53,
+    "name": "Run Animation",
+    "file": "image"
+  },
+  {
+    "id": 54,
+    "name": "Swim Animation",
+    "file": "image"
+  },
+  {
+    "id": 55,
+    "name": "Walk Animation",
+    "file": "image"
+  },
+  {
+    "id": 56,
+    "name": "Pose Animation",
+    "file": "image"
+  },
+  {
+    "id": 59,
+    "name": "LocalizationTableManifest",
+    "file": "image"
+  },
+  {
+    "id": 60,
+    "name": "LocalizationTableTranslation",
+    "file": "image"
+  },
+  {
+    "id": 61,
+    "name": "Emote Animation",
+    "file": "image"
+  },
+  {
+    "id": 62,
+    "name": "Video",
+    "file": "image"
+  },
+  {
+    "id": 63,
+    "name": "TexturePack",
+    "file": "image"
+  },
+  {
+    "id": 64,
+    "name": "T-Shirt Accessory",
+    "file": "image"
+  },
+  {
+    "id": 65,
+    "name": "Shirt Accessory",
+    "file": "image"
+  },
+  {
+    "id": 66,
+    "name": "Pants Accessory",
+    "file": "image"
+  },
+  {
+    "id": 67,
+    "name": "Jacket Accessory",
+    "file": "image"
+  },
+  {
+    "id": 68,
+    "name": "Sweater Accessory",
+    "file": "image"
+  },
+  {
+    "id": 69,
+    "name": "Shorts Accessory",
+    "file": "image"
+  },
+  {
+    "id": 70,
+    "name": "Left Shoe Accessory",
+    "file": "image"
+  },
+  {
+    "id": 71,
+    "name": "Right Shoe Accessory",
+    "file": "image"
+  },
+  {
+    "id": 72,
+    "name": "Dress Skirt Accessory",
+    "file": "image"
+  },
+  {
+    "id": 73,
+    "name": "Font Family",
+    "file": "image"
+  },
+  {
+    "id": 74,
+    "name": "Font Face",
+    "file": "image"
+  }
+]
